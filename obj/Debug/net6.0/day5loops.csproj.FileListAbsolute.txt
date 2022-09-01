@@ -1,0 +1,15 @@
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.csproj.AssemblyReference.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.AssemblyInfoInputs.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.AssemblyInfo.cs
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.csproj.CoreCompileInputs.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\bin\Debug\net6.0\day5loops.exe
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\bin\Debug\net6.0\day5loops.deps.json
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\bin\Debug\net6.0\day5loops.runtimeconfig.json
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\bin\Debug\net6.0\day5loops.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\bin\Debug\net6.0\day5loops.pdb
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\refint\day5loops.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.pdb
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\day5loops.genruntimeconfig.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\day5loops\obj\Debug\net6.0\ref\day5loops.dll
